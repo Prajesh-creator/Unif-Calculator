@@ -66,5 +66,4 @@ if ch==5:
 if ch==6:
 	exit
 
-else:
-	print("Invaild option.")
+
