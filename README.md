@@ -1,7 +1,7 @@
 # Unif-Calculator
 This is a simple claculator for adding, subtraction, multiplication and division.
 
-Work both on kali Linux,termux and windows
+Work on kali Linux,termux and windows
 
 # Requirements
 
